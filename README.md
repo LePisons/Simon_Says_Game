@@ -59,6 +59,4 @@ You can customize the game by modifying the following:
 
 Feel free to fork this project and submit pull requests with improvements or additional features.
 
-## License
 
-[Add your chosen license here]
